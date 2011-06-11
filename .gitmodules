@@ -1,0 +1,3 @@
+[submodule "modules/mongodb"]
+	path = modules/mongodb
+	url = git://github.com/portertech/puppet-mongodb.git
